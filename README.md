@@ -1,3 +1,4 @@
 # vinti
-This is my first Git Repository
-Authoe - Vinti Jingar 
+This is my first Git Repository 
+<br>
+Author - Vinti Jingar 
